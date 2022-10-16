@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506607311845",
+    "project_id": "bloc-architecture-sample-9acf2",
+    "storage_bucket": "bloc-architecture-sample-9acf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506607311845:android:20a2ffb22670b9de26ad0c",
+        "android_client_info": {
+          "package_name": "com.example.bloc_architecture_samples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506607311845-l1grbgg7n5kefoumjvsh0hsphkujpgik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdp5upWvpC0RRd6UqvuVA7ToJmW78m-N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506607311845-l1grbgg7n5kefoumjvsh0hsphkujpgik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
